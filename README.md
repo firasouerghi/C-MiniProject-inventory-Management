@@ -1,6 +1,10 @@
 # C-MiniProject-inventory-Management
 1st year c project inventory Management  
 Powered with a GUI using the GTK GNU/LINUX library 
+
+![](img/overview.png)
+
+
 The system has different features needed for better inventory management. The application must perform the following treatments: 
 1) Adding a product using the function:  void add_produit(GtkWidget *widget ,gpointer data) 
 2) modifying a product using the function:  void maj(GtkWidget *widget , gpointer data) 
